@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-style: ridge;
+   border-color:pink;
+   background-color:white;
+   border-width:5px;
+
+}
+
+#b123{
+    background-color:paleturquoise;
+    color:rgb(152, 101, 202);
+    border-width:1px;
+    border-color:skyblue;
+    
+}
+
